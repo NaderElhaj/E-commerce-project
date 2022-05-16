@@ -2,24 +2,24 @@
 Project Description
 Its e-commerce project Simply displays several types of clothes, shoes, etc which the user can buy. If he wants to buy simply he can by using stripe for payment.
 
-How to run the code <br>
+How to run the code <br><br> <hr>
 1- Download the code-base.<br><br>
 
 2- Open the command line and in the root type: npm install<br><br>
 
 3- Then type npm run start<br><br>
-<hr> 
-Tech stack
-React.js
+<hr> <br><br>
+Tech stack<br>
+React.js<br>
 
-Redux
+Redux<br>
 
-Redux-logger
+Redux-logger<br>
 
-Reselect
+Reselect<br>
 
-react-stripe-checkout
+react-stripe-checkout<br>
 
-Sass
+Sass<br>
 
-Firebase
+Firebase<br>
