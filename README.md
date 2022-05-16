@@ -5,9 +5,9 @@ Its e-commerce project Simply displays several types of clothes, shoes, etc whic
 How to run the code <br><br> <hr>
 1- Download the code-base.<br><br>
 
-2- Open the command line and in the root type: npm install<br><br>
+2- Open the command line and in the root type:<br> <b>npm install</b><br><br>
 
-3- Then type npm run start<br><br>
+3- Then type<br> <b> npm run start</b><br><br>
 <hr> <br><br>
 Tech stack<br>
 React.js<br>
