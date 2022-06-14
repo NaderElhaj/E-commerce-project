@@ -1,7 +1,7 @@
 # Test-project
 <b>Project Description :</b> <br>
-Bootstrap alert component wich displays alerts globally or in context of some other component
-How to run the code <br><br> <hr>
+Bootstrap alert component wich displays alerts globally or in context of some other component <br>
+<b>How to run the code</b> <br><br> <hr>
 1- Download the code-base.<br><br>
 
 2- Open the command line and in the root type:<br> <b>npm install</b><br><br>
