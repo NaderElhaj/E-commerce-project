@@ -1,6 +1,6 @@
-# E-commerce-project
+# Test-project
 <b>Project Description :</b> <br>
-Bootstrap alertcomponent wich displays alerts globally or in context of some other component
+Bootstrap alert component wich displays alerts globally or in context of some other component
 How to run the code <br><br> <hr>
 1- Download the code-base.<br><br>
 
