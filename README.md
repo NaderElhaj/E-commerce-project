@@ -1,7 +1,6 @@
 # E-commerce-project
-Project Description
-Its e-commerce project Simply displays several types of clothes, shoes, etc which the user can buy. If he wants to buy simply he can by using stripe for payment.
-
+<b>Project Description :</b> <br>
+Bootstrap alertcomponent wich displays alerts globally or in context of some other component
 How to run the code <br><br> <hr>
 1- Download the code-base.<br><br>
 
@@ -12,14 +11,9 @@ How to run the code <br><br> <hr>
 Tech stack<br>
 React.js<br>
 
-Redux<br>
+Bootstrap<br>
 
-Redux-logger<br>
 
-Reselect<br>
 
-react-stripe-checkout<br>
 
-Sass<br>
 
-Firebase<br>
